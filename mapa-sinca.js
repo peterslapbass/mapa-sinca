@@ -531,7 +531,7 @@ function resetParticle(p) {
 }
 
 function animate() {
-  ctx.fillStyle = "rgba(255,255,255,0.02)";
+  ctx.fillStyle = "rgba(255,255,255,0.1)";
   ctx.fillRect(0, 0, canvas.width, canvas.height);
 
   particles.forEach(p => {
