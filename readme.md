@@ -157,3 +157,12 @@ https://peterslapbass.github.io/AirQualityChile/
 ## 🙏🏻 🙏🏼 🙏🏽 🙏🏾 🙏🏿 Agradecimientos 
 - Red Meteorológica Aficionada de Chile. (2019). Sitio web RedMeteo. Red Ciudadana De Estaciones Meteorológicas. Desde 22-04-2026, https://www.redmeteo.cl/ 
 - SINCA. Sistema de Información Nacional de Calidad del Aire, Ministerio de Medio Ambiente, Gobierno de Chile. Desde 22-04-2026, https://sinca.mma.gob.cl
+
+## Última actualización
+
+- Incorporación de fuentes puntuales RETC 2024.
+- Mejoras de compatibilidad móvil (Safari/iOS).
+- Correcciones de caché y actualización automática.
+- Optimización visual de capas y superposición de marcadores.
+
+> Nota: Las emisiones RETC pueden presentar distintas unidades dependiendo del tipo de fuente, combustible y metodología reportada.
