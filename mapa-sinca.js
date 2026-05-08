@@ -469,7 +469,9 @@ async function loadSources() {
     const data = await res.json();
 
     sourceLayer.clearLayers();
-
+    
+    const coordCount = {};
+    
     data.forEach(src => {
 
       // VALIDACIÓN
@@ -490,9 +492,23 @@ async function loadSources() {
       const radius =
         totalEmission <= 0 ? 4 :
         Math.min(18, 4 + Math.log10(totalEmission + 1) * 3);
+        
+      // evitar superposición
+      const key = `${src.lat.toFixed(5)},${src.lon.toFixed(5)}`;
 
+      coordCount[key] = (coordCount[key] || 0) + 1;
+
+      const n = coordCount[key];
+
+      const angle = n * 45 * Math.PI / 180;
+      const offset = 0.0012;
+
+      const lat = src.lat + Math.cos(angle) * offset;
+      const lon = src.lon + Math.sin(angle) * offset;
+        
+        
       // marcador
-      const marker = L.circleMarker([src.lat, src.lon], {
+      const marker = L.circleMarker([lat, lon], {
 
         radius,
         color: "#000",
