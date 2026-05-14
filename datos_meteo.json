@@ -3,11 +3,11 @@
     "name": "Arica - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -18.4769,
     "lon": -70.3219,
-    "wind_speed": 0.87,
-    "wind_dir": 205.0,
-    "temp": 21.2,
-    "humidity": 72.0,
-    "pressure": 1016.67
+    "wind_speed": 1.75,
+    "wind_dir": 271.0,
+    "temp": 21.5,
+    "humidity": 70.0,
+    "pressure": 1014.64
   },
   {
     "name": "Pisagua - Alcald\u00eda de Mar (SERVIMET)",
@@ -23,31 +23,31 @@
     "name": "Iquique - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -20.21128,
     "lon": -70.1534,
-    "wind_speed": 3.04,
-    "wind_dir": 273.0,
-    "temp": 21.3,
-    "humidity": 65.0,
-    "pressure": 1014.65
+    "wind_speed": 2.98,
+    "wind_dir": 286.0,
+    "temp": 20.7,
+    "humidity": 68.0,
+    "pressure": 1013.46
   },
   {
     "name": "Iquique - Lic. Bicentenario Minero - UCH",
     "lat": -20.27235,
     "lon": -70.0949,
-    "wind_speed": 0.8,
-    "wind_dir": 228.0,
-    "temp": 15.8,
-    "humidity": 84.0,
-    "pressure": 955.2
+    "wind_speed": 2.0,
+    "wind_dir": 293.0,
+    "temp": 18.1,
+    "humidity": 75.0,
+    "pressure": 953.9
   },
   {
     "name": "Alto Hospicio - Las Parcelas",
     "lat": -20.29574,
     "lon": -70.0702,
-    "wind_speed": 0.0,
-    "wind_dir": 125.0,
-    "temp": 17.4,
-    "humidity": 74.0,
-    "pressure": 936.7
+    "wind_speed": 1.0,
+    "wind_dir": 178.0,
+    "temp": 21.1,
+    "humidity": 62.0,
+    "pressure": 935.6
   },
   {
     "name": "Tocopilla - Capitan\u00eda de Puerto (SERVIMET)",
@@ -63,21 +63,21 @@
     "name": "Calama - TRX Telecom",
     "lat": -22.43242,
     "lon": -68.9163,
-    "wind_speed": 0.0,
-    "wind_dir": 198.0,
-    "temp": 18.5,
-    "humidity": 13.0,
-    "pressure": 947.38
+    "wind_speed": 1.5,
+    "wind_dir": 147.0,
+    "temp": 21.2,
+    "humidity": 11.0,
+    "pressure": 947.24
   },
   {
     "name": "Calama - Hauka Huali Oriente",
     "lat": -22.44965,
     "lon": -68.9471,
-    "wind_speed": 0.8,
-    "wind_dir": 201.0,
-    "temp": 20.1,
-    "humidity": 11.0,
-    "pressure": 937.44
+    "wind_speed": 1.9,
+    "wind_dir": 56.0,
+    "temp": 22.3,
+    "humidity": 10.0,
+    "pressure": 937.05
   },
   {
     "name": "Taltal - Capitan\u00eda de Puerto (SERVIMET)",
@@ -85,49 +85,49 @@
     "lon": -70.4884,
     "wind_speed": 1.39,
     "wind_dir": 355.0,
-    "temp": 16.1,
-    "humidity": 86.0,
-    "pressure": 1015.83
+    "temp": 17.3,
+    "humidity": 84.0,
+    "pressure": 1015.22
   },
   {
     "name": "Cha\u00f1aral - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -26.35111,
     "lon": -70.6377,
-    "wind_speed": 4.01,
-    "wind_dir": 218.0,
-    "temp": 15.4,
-    "humidity": 73.0,
-    "pressure": 1016.25
+    "wind_speed": 5.3,
+    "wind_dir": 203.0,
+    "temp": 14.9,
+    "humidity": 74.0,
+    "pressure": 1016.28
   },
   {
     "name": "Caldera - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -27.0506,
     "lon": -70.8522,
-    "wind_speed": 0.26,
-    "wind_dir": 5.0,
-    "temp": 14.7,
-    "humidity": 70.0,
-    "pressure": 1015.67
+    "wind_speed": 1.54,
+    "wind_dir": 180.0,
+    "temp": 15.5,
+    "humidity": 69.0,
+    "pressure": 1015.54
   },
   {
     "name": "Copiap\u00f3",
     "lat": -27.364,
     "lon": -70.3116,
-    "wind_speed": 1.1,
-    "wind_dir": 67.0,
-    "temp": 18.8,
-    "humidity": 48.0,
-    "pressure": 996.7
+    "wind_speed": 2.9,
+    "wind_dir": 94.0,
+    "temp": 19.6,
+    "humidity": 54.0,
+    "pressure": 996.43
   },
   {
     "name": "Huasco - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -28.46165,
     "lon": -71.2266,
-    "wind_speed": 2.21,
-    "wind_dir": 227.0,
-    "temp": 13.1,
-    "humidity": 75.0,
-    "pressure": 1015.05
+    "wind_speed": 0.98,
+    "wind_dir": 306.0,
+    "temp": 13.4,
+    "humidity": 73.0,
+    "pressure": 1014.13
   },
   {
     "name": "La Serena - La Florida - UCH ",
@@ -143,21 +143,21 @@
     "name": "Coquimbo - Faro Punta Tortuga (SERVIMET)",
     "lat": -29.93544,
     "lon": -71.3422,
-    "wind_speed": 3.55,
-    "wind_dir": 195.0,
-    "temp": 12.9,
-    "humidity": 72.0,
-    "pressure": 1015.15
+    "wind_speed": 1.8,
+    "wind_dir": 294.0,
+    "temp": 13.5,
+    "humidity": 71.0,
+    "pressure": 1014.48
   },
   {
     "name": "La Serena - Pe\u00f1uelas ",
     "lat": -29.9651,
     "lon": -71.2965,
-    "wind_speed": 0.0,
-    "wind_dir": 243.0,
-    "temp": 13.5,
-    "humidity": 83.0,
-    "pressure": 1013.3
+    "wind_speed": 0.6,
+    "wind_dir": 251.0,
+    "temp": 15.5,
+    "humidity": 77.0,
+    "pressure": 1012.8
   },
   {
     "name": "Coquimbo - San Juan - UCH",
@@ -193,21 +193,21 @@
     "name": "Los Vilos - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -31.90931,
     "lon": -71.5137,
-    "wind_speed": 1.39,
-    "wind_dir": 218.0,
-    "temp": 13.1,
-    "humidity": 73.0,
-    "pressure": 1015.34
+    "wind_speed": 2.88,
+    "wind_dir": 234.0,
+    "temp": 14.4,
+    "humidity": 70.0,
+    "pressure": 1014.2
   },
   {
     "name": "Hanga Roa - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -27.14987,
     "lon": -109.437,
-    "wind_speed": 9.67,
-    "wind_dir": 265.0,
-    "temp": 21.2,
-    "humidity": 84.0,
-    "pressure": 1007.74
+    "wind_speed": 7.97,
+    "wind_dir": 317.0,
+    "temp": 22.8,
+    "humidity": 82.0,
+    "pressure": 1008.26
   },
   {
     "name": "Pichicuy, GobTuCosta",
@@ -223,31 +223,31 @@
     "name": "Zapallar - Catapilco",
     "lat": -32.5703,
     "lon": -71.3022,
-    "wind_speed": 0.1,
-    "wind_dir": 181.0,
-    "temp": 13.3,
-    "humidity": 85.0,
-    "pressure": 1008.21
+    "wind_speed": 1.6,
+    "wind_dir": 199.0,
+    "temp": 19.4,
+    "humidity": 59.0,
+    "pressure": 1007.25
   },
   {
     "name": "El Mel\u00f3n",
     "lat": -32.6938,
     "lon": -71.2097,
-    "wind_speed": 0.6,
-    "wind_dir": 168.0,
-    "temp": 12.0,
-    "humidity": 86.0,
-    "pressure": 1010.7
+    "wind_speed": 0.4,
+    "wind_dir": 119.0,
+    "temp": 20.9,
+    "humidity": 56.0,
+    "pressure": 1009.0
   },
   {
     "name": "Quintero - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -32.77551,
     "lon": -71.5254,
-    "wind_speed": 0.05,
-    "wind_dir": 197.0,
-    "temp": 12.1,
-    "humidity": 78.0,
-    "pressure": 1014.26
+    "wind_speed": 2.26,
+    "wind_dir": 302.0,
+    "temp": 12.3,
+    "humidity": 77.0,
+    "pressure": 1013.36
   },
   {
     "name": "La Calera - Colegio Fundadores",
@@ -264,20 +264,20 @@
     "lat": -32.8,
     "lon": -71.1458,
     "wind_speed": 0.0,
-    "wind_dir": 348.0,
-    "temp": 12.2,
-    "humidity": 83.0,
-    "pressure": 984.9
+    "wind_dir": 2.0,
+    "temp": 20.1,
+    "humidity": 58.0,
+    "pressure": 983.7
   },
   {
     "name": "Los Andes",
     "lat": -32.8462,
     "lon": -70.5892,
-    "wind_speed": 0.0,
-    "wind_dir": 51.0,
-    "temp": 18.9,
-    "humidity": 36.0,
-    "pressure": 922.4
+    "wind_speed": 0.1,
+    "wind_dir": 77.0,
+    "temp": 24.6,
+    "humidity": 26.0,
+    "pressure": 921.6
   },
   {
     "name": "Concon - Las Pretas ",
@@ -293,71 +293,71 @@
     "name": "Conc\u00f3n Rural - Los Eucaliptus",
     "lat": -32.94,
     "lon": -71.44,
-    "wind_speed": 1.0,
-    "wind_dir": 315.0,
-    "temp": 12.8,
-    "humidity": 85.0,
-    "pressure": 1003.32
+    "wind_speed": 1.4,
+    "wind_dir": 312.0,
+    "temp": 13.7,
+    "humidity": 83.0,
+    "pressure": 1002.64
   },
   {
     "name": "Vi\u00f1a del Mar - FACIMAR, Universidad de Valpara\u00edso (SERVIMET)",
     "lat": -32.95708,
     "lon": -71.5504,
-    "wind_speed": 0.51,
-    "wind_dir": 28.0,
-    "temp": 12.3,
+    "wind_speed": 1.03,
+    "wind_dir": 5.0,
+    "temp": 12.6,
     "humidity": 76.0,
-    "pressure": 1015.83
+    "pressure": 1015.23
   },
   {
     "name": "Re\u00f1aca - Los Almendros",
     "lat": -32.96797,
     "lon": -71.5295,
     "wind_speed": 0.0,
-    "wind_dir": 92.0,
-    "temp": 13.0,
-    "humidity": 90.0,
-    "pressure": 1016.2
+    "wind_dir": 93.0,
+    "temp": 14.3,
+    "humidity": 86.0,
+    "pressure": 1015.5
   },
   {
     "name": "Re\u00f1aca",
     "lat": -32.9762,
     "lon": -71.5364,
-    "wind_speed": 0.1,
-    "wind_dir": 349.0,
-    "temp": 12.5,
-    "humidity": 91.0,
-    "pressure": 980.5
+    "wind_speed": 0.0,
+    "wind_dir": 24.0,
+    "temp": 12.8,
+    "humidity": 90.0,
+    "pressure": 980.0
   },
   {
     "name": "Vi\u00f1a del Mar - Colegio Capell\u00e1n Pascal",
     "lat": -32.9944,
     "lon": -71.5443,
-    "wind_speed": 0.7,
-    "wind_dir": 209.0,
-    "temp": 12.4,
-    "humidity": 88.0,
-    "pressure": 1016.1
+    "wind_speed": 1.0,
+    "wind_dir": 141.0,
+    "temp": 12.3,
+    "humidity": 89.0,
+    "pressure": 1015.6
   },
   {
     "name": "Vi\u00f1a del Mar - Santa Julia",
     "lat": -33.0052,
     "lon": -71.4995,
-    "wind_speed": 1.5,
-    "wind_dir": 20.0,
-    "temp": 13.3,
-    "humidity": 87.0,
-    "pressure": 1017.5
+    "wind_speed": 2.3,
+    "wind_dir": 252.0,
+    "temp": 11.8,
+    "humidity": 93.0,
+    "pressure": 1016.9
   },
   {
     "name": "Limache",
     "lat": -33.0075,
     "lon": -71.2602,
-    "wind_speed": 0.8,
-    "wind_dir": 274.0,
-    "temp": 15.5,
-    "humidity": 71.0,
-    "pressure": 1008.74
+    "wind_speed": 0.5,
+    "wind_dir": 218.0,
+    "temp": 21.1,
+    "humidity": 55.0,
+    "pressure": 1007.47
   },
   {
     "name": "Valpara\u00edso - Playa Ancha",
@@ -373,81 +373,81 @@
     "name": "Vi\u00f1a del Mar - Club de Yates Recreo (IFOP)",
     "lat": -33.0264,
     "lon": -71.5802,
-    "wind_speed": 2.0,
-    "wind_dir": 36.0,
+    "wind_speed": 0.4,
+    "wind_dir": 56.0,
     "temp": 11.7,
-    "humidity": 89.1,
-    "pressure": 1017.1
+    "humidity": 90.5,
+    "pressure": 1016.5
   },
   {
     "name": "Vi\u00f1a del Mar - Villa Dulce Ampliaci\u00f3n",
     "lat": -33.0265,
     "lon": -71.5067,
-    "wind_speed": 0.5,
-    "wind_dir": 66.0,
-    "temp": 14.1,
-    "humidity": 77.0,
-    "pressure": 988.0
+    "wind_speed": 1.3,
+    "wind_dir": 288.0,
+    "temp": 13.4,
+    "humidity": 81.0,
+    "pressure": 987.3
   },
   {
     "name": "Vi\u00f1a del Mar - Quinta Vergara",
     "lat": -33.02887,
     "lon": -71.5537,
     "wind_speed": 0.8,
-    "wind_dir": 296.0,
-    "temp": 13.4,
-    "humidity": 83.0,
-    "pressure": 1015.5
+    "wind_dir": 4.0,
+    "temp": 12.0,
+    "humidity": 90.0,
+    "pressure": 1014.8
   },
   {
     "name": "Valpara\u00edso - SOCIBER (IFOP)",
     "lat": -33.03795,
     "lon": -71.6232,
-    "wind_speed": 2.3,
-    "wind_dir": 352.0,
-    "temp": 11.3,
-    "humidity": 89.1,
-    "pressure": 1015.3
+    "wind_speed": 1.0,
+    "wind_dir": 340.0,
+    "temp": 11.4,
+    "humidity": 90.7,
+    "pressure": 1015.0
   },
   {
     "name": "Valpara\u00edso - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -33.03798,
     "lon": -71.6273,
-    "wind_speed": 2.62,
-    "wind_dir": 37.0,
-    "temp": 11.9,
-    "humidity": 87.0,
-    "pressure": 1013.18
+    "wind_speed": 0.98,
+    "wind_dir": 355.0,
+    "temp": 12.1,
+    "humidity": 89.0,
+    "pressure": 1012.79
   },
   {
     "name": "Valpara\u00edso - Cerro Concepci\u00f3n",
     "lat": -33.04184,
     "lon": -71.6281,
     "wind_speed": 0.0,
-    "wind_dir": 192.0,
-    "temp": 13.1,
-    "humidity": 83.0,
-    "pressure": 1011.1
+    "wind_dir": 191.0,
+    "temp": 13.0,
+    "humidity": 85.0,
+    "pressure": 1010.5
   },
   {
     "name": "Valpara\u00edso - Geograf\u00eda PUCV",
     "lat": -33.0447,
     "lon": -71.6122,
     "wind_speed": 0.0,
-    "wind_dir": 5.0,
-    "temp": 12.7,
-    "humidity": 86.0,
-    "pressure": 1015.1
+    "wind_dir": 42.0,
+    "temp": 12.8,
+    "humidity": 87.0,
+    "pressure": 1014.5
   },
   {
     "name": "Quilpu\u00e9 - El Belloto",
     "lat": -33.0454,
     "lon": -71.4076,
     "wind_speed": 0.0,
-    "wind_dir": 107.0,
-    "temp": 14.9,
-    "humidity": 72.0,
-    "pressure": 986.9
+    "wind_dir": 310.0,
+    "temp": 18.8,
+    "humidity": 55.0,
+    "pressure": 986.1
   },
   {
     "name": "Valpara\u00edso - Museo de Historia Natural",
@@ -463,21 +463,21 @@
     "name": "Vi\u00f1a del Mar - Jard\u00edn Bot\u00e1nico",
     "lat": -33.04927,
     "lon": -71.5016,
-    "wind_speed": 0.0,
-    "wind_dir": 121.0,
-    "temp": 13.9,
-    "humidity": 81.0,
-    "pressure": 1013.5
+    "wind_speed": 0.7,
+    "wind_dir": 23.0,
+    "temp": 13.2,
+    "humidity": 87.0,
+    "pressure": 1012.8
   },
   {
     "name": "Villa Alemana - Pob Guillermo Marconi",
     "lat": -33.0499,
     "lon": -71.393,
-    "wind_speed": 0.0,
+    "wind_speed": 0.3,
     "wind_dir": 225.0,
-    "temp": 13.6,
-    "humidity": 77.0,
-    "pressure": 1013.27
+    "temp": 18.0,
+    "humidity": 61.0,
+    "pressure": 1012.33
   },
   {
     "name": "Valpara\u00edso - Cerro Florida",
@@ -493,51 +493,51 @@
     "name": "Villa Alemana - Pe\u00f1a Blanca",
     "lat": -33.0526,
     "lon": -71.3548,
-    "wind_speed": 0.0,
-    "wind_dir": 341.0,
-    "temp": 14.4,
-    "humidity": 78.0,
-    "pressure": 1000.0
+    "wind_speed": 0.6,
+    "wind_dir": 27.0,
+    "temp": 18.8,
+    "humidity": 64.0,
+    "pressure": 998.9
   },
   {
     "name": "Placilla de Pe\u00f1uelas - Salto de Agua",
     "lat": -33.1197,
     "lon": -71.5812,
-    "wind_speed": 0.1,
-    "wind_dir": 90.0,
-    "temp": 15.0,
-    "humidity": 76.0,
+    "wind_speed": 0.5,
+    "wind_dir": 262.0,
+    "temp": 18.7,
+    "humidity": 64.0,
     "pressure": 937.0
   },
   {
     "name": "Placilla de Pe\u00f1uelas",
     "lat": -33.1243,
     "lon": -71.569,
-    "wind_speed": 0.4,
-    "wind_dir": 53.0,
-    "temp": 12.1,
-    "humidity": 99.0,
-    "pressure": 991.0
+    "wind_speed": 2.3,
+    "wind_dir": 297.0,
+    "temp": 16.4,
+    "humidity": 92.0,
+    "pressure": 990.2
   },
   {
     "name": "Casablanca - La Playa",
     "lat": -33.2388,
     "lon": -71.4584,
-    "wind_speed": 0.5,
-    "wind_dir": 76.0,
-    "temp": 10.4,
-    "humidity": 99.0,
-    "pressure": 1003.97
+    "wind_speed": 0.4,
+    "wind_dir": 98.0,
+    "temp": 20.1,
+    "humidity": 64.0,
+    "pressure": 1003.39
   },
   {
     "name": "Casablanca - Centro",
     "lat": -33.31381,
     "lon": -71.4089,
     "wind_speed": 0.0,
-    "wind_dir": 13.0,
-    "temp": 9.8,
-    "humidity": 99.0,
-    "pressure": 953.7
+    "wind_dir": 347.0,
+    "temp": 18.0,
+    "humidity": 65.0,
+    "pressure": 953.4
   },
   {
     "name": "Quilaicillo",
@@ -563,61 +563,61 @@
     "name": "Juan Fern\u00e1ndez - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -33.63604,
     "lon": -78.8294,
-    "wind_speed": 4.22,
-    "wind_dir": 193.0,
-    "temp": 18.1,
-    "humidity": 55.0,
-    "pressure": 1016.79
+    "wind_speed": 5.4,
+    "wind_dir": 209.0,
+    "temp": 18.3,
+    "humidity": 59.0,
+    "pressure": 1016.57
   },
   {
     "name": "Tiltil",
     "lat": -33.0769,
     "lon": -70.9251,
-    "wind_speed": 0.9,
-    "wind_dir": 54.0,
-    "temp": 16.3,
-    "humidity": 40.0,
-    "pressure": 946.91
+    "wind_speed": 0.0,
+    "wind_dir": 38.0,
+    "temp": 23.4,
+    "humidity": 22.0,
+    "pressure": 947.27
   },
   {
     "name": "Lo Barnechea - San Enrique",
     "lat": -33.3633,
     "lon": -70.4958,
-    "wind_speed": 1.0,
-    "wind_dir": 339.0,
-    "temp": 19.2,
-    "humidity": 46.0,
-    "pressure": 909.6
+    "wind_speed": 0.6,
+    "wind_dir": 301.0,
+    "temp": 23.8,
+    "humidity": 31.0,
+    "pressure": 910.51
   },
   {
     "name": "Vitacura RGVB",
     "lat": -33.3759,
     "lon": -70.5461,
-    "wind_speed": 0.7,
-    "wind_dir": 82.0,
-    "temp": 16.7,
-    "humidity": 30.0,
-    "pressure": 815.82
+    "wind_speed": 0.6,
+    "wind_dir": 311.0,
+    "temp": 19.9,
+    "humidity": 26.0,
+    "pressure": 815.1
   },
   {
     "name": "Providencia - UCH",
     "lat": -33.44004,
     "lon": -70.5982,
-    "wind_speed": 0.1,
-    "wind_dir": 233.0,
-    "temp": 18.3,
-    "humidity": 61.0,
-    "pressure": 946.9
+    "wind_speed": 0.3,
+    "wind_dir": 301.0,
+    "temp": 22.9,
+    "humidity": 44.0,
+    "pressure": 946.2
   },
   {
     "name": "Villa Portales - UCH",
     "lat": -33.44915,
     "lon": -70.6844,
     "wind_speed": 0.0,
-    "wind_dir": 231.0,
-    "temp": 17.5,
-    "humidity": 62.0,
-    "pressure": 957.3
+    "wind_dir": 219.0,
+    "temp": 23.6,
+    "humidity": 40.0,
+    "pressure": 956.5
   },
   {
     "name": "\u00d1u\u00f1oa ",
@@ -633,91 +633,91 @@
     "name": "Pudahuel Sur",
     "lat": -33.4512,
     "lon": -70.7559,
-    "wind_speed": 0.5,
-    "wind_dir": 99.0,
-    "temp": 17.1,
-    "humidity": 63.0,
-    "pressure": 960.4
+    "wind_speed": 0.1,
+    "wind_dir": 134.0,
+    "temp": 22.1,
+    "humidity": 43.0,
+    "pressure": 959.4
   },
   {
     "name": "San Joaquin - UCH",
     "lat": -33.48034,
     "lon": -70.6237,
-    "wind_speed": 0.4,
+    "wind_speed": 2.0,
     "wind_dir": 242.0,
-    "temp": 19.1,
-    "humidity": 54.0,
-    "pressure": 953.1
+    "temp": 21.9,
+    "humidity": 43.0,
+    "pressure": 952.4
   },
   {
     "name": "Macul - UCH",
     "lat": -33.48758,
     "lon": -70.5973,
-    "wind_speed": 0.1,
-    "wind_dir": 71.0,
-    "temp": 20.9,
-    "humidity": 50.0,
-    "pressure": 951.7
+    "wind_speed": 0.3,
+    "wind_dir": 132.0,
+    "temp": 22.7,
+    "humidity": 41.0,
+    "pressure": 950.9
   },
   {
     "name": "Pedro Aguirre Cerda - UCH",
     "lat": -33.48939,
     "lon": -70.6633,
-    "wind_speed": 0.5,
-    "wind_dir": 161.0,
-    "temp": 19.2,
-    "humidity": 54.0,
-    "pressure": 955.2
+    "wind_speed": 0.6,
+    "wind_dir": 248.0,
+    "temp": 22.5,
+    "humidity": 43.0,
+    "pressure": 954.3
   },
   {
     "name": "Maip\u00fa - UCH",
     "lat": -33.49373,
     "lon": -70.7778,
-    "wind_speed": 0.1,
-    "wind_dir": 256.0,
-    "temp": 16.0,
-    "humidity": 69.0,
-    "pressure": 963.7
+    "wind_speed": 0.0,
+    "wind_dir": 353.0,
+    "temp": 21.8,
+    "humidity": 45.0,
+    "pressure": 962.7
   },
   {
     "name": "San Miguel",
     "lat": -33.5069,
     "lon": -70.6508,
-    "wind_speed": 0.0,
-    "wind_dir": 270.0,
-    "temp": 19.0,
-    "humidity": 52.0,
-    "pressure": 949.5
+    "wind_speed": 0.7,
+    "wind_dir": 315.0,
+    "temp": 20.5,
+    "humidity": 47.0,
+    "pressure": 948.8
   },
   {
     "name": "Lo Espejo - UCH",
     "lat": -33.512,
     "lon": -70.6916,
-    "wind_speed": 0.1,
-    "wind_dir": 243.0,
-    "temp": 17.2,
-    "humidity": 63.0,
-    "pressure": 955.9
+    "wind_speed": 0.0,
+    "wind_dir": 254.0,
+    "temp": 21.8,
+    "humidity": 47.0,
+    "pressure": 954.9
   },
   {
     "name": "La Cisterna Norte",
     "lat": -33.5148,
     "lon": -70.6639,
-    "wind_speed": 0.1,
-    "wind_dir": 201.0,
-    "temp": 16.4,
-    "humidity": 67.0,
-    "pressure": 952.8
+    "wind_speed": 0.0,
+    "wind_dir": 175.0,
+    "temp": 19.6,
+    "humidity": 55.0,
+    "pressure": 952.4
   },
   {
     "name": "Las Nalcas - UCH",
     "lat": -33.52549,
     "lon": -70.5503,
-    "wind_speed": 1.0,
-    "wind_dir": 80.0,
-    "temp": 14.1,
-    "humidity": 66.0,
-    "pressure": 938.3
+    "wind_speed": 0.1,
+    "wind_dir": 290.0,
+    "temp": 20.8,
+    "humidity": 44.0,
+    "pressure": 937.5
   },
   {
     "name": "San Jos\u00e9 de Maipo - El Manzano",
@@ -744,110 +744,110 @@
     "lat": -33.6243,
     "lon": -70.6826,
     "wind_speed": 0.0,
-    "wind_dir": 212.0,
-    "temp": 17.2,
-    "humidity": 60.0,
-    "pressure": 950.8
+    "wind_dir": 214.0,
+    "temp": 21.2,
+    "humidity": 44.0,
+    "pressure": 949.8
   },
   {
     "name": "Pirque - El Huingan",
     "lat": -33.6341,
     "lon": -70.5504,
     "wind_speed": 0.0,
-    "wind_dir": 164.0,
-    "temp": 20.7,
-    "humidity": 51.0,
-    "pressure": 935.83
+    "wind_dir": 208.0,
+    "temp": 22.5,
+    "humidity": 44.0,
+    "pressure": 934.71
   },
   {
     "name": "Buin Oriente",
     "lat": -33.7329,
     "lon": -70.7216,
     "wind_speed": 0.0,
-    "wind_dir": 71.0,
-    "temp": 15.2,
-    "humidity": 68.0,
-    "pressure": 958.4
+    "wind_dir": 182.0,
+    "temp": 19.4,
+    "humidity": 52.0,
+    "pressure": 957.6
   },
   {
     "name": "Melipilla - Mandinga",
     "lat": -33.7809,
     "lon": -71.2903,
-    "wind_speed": 0.5,
-    "wind_dir": 308.0,
-    "temp": 9.8,
-    "humidity": 99.0,
-    "pressure": 1002.54
+    "wind_speed": 0.0,
+    "wind_dir": 312.0,
+    "temp": 17.0,
+    "humidity": 77.0,
+    "pressure": 1001.63
   },
   {
     "name": "Paine Oriente",
     "lat": -33.7895,
     "lon": -70.635,
     "wind_speed": 0.0,
-    "wind_dir": 158.0,
-    "temp": 14.6,
-    "humidity": 73.0,
-    "pressure": 963.3
+    "wind_dir": 93.0,
+    "temp": 18.6,
+    "humidity": 51.0,
+    "pressure": 962.0
   },
   {
     "name": "Paine - Las Colonias",
     "lat": -33.8349,
     "lon": -70.7621,
     "wind_speed": 0.0,
-    "wind_dir": 125.0,
-    "temp": 15.8,
-    "humidity": 73.0,
-    "pressure": 971.6
+    "wind_dir": 342.0,
+    "temp": 19.8,
+    "humidity": 51.0,
+    "pressure": 970.9
   },
   {
     "name": "Pichilemu - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -34.38495,
     "lon": -72.0085,
-    "wind_speed": 0.46,
-    "wind_dir": 290.0,
-    "temp": 12.1,
-    "humidity": 90.0,
-    "pressure": 1015.12
+    "wind_speed": 2.88,
+    "wind_dir": 247.0,
+    "temp": 15.4,
+    "humidity": 76.0,
+    "pressure": 1014.52
   },
   {
     "name": "Constituci\u00f3n - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -35.32417,
     "lon": -72.4081,
-    "wind_speed": 3.4,
-    "wind_dir": 123.0,
-    "temp": 14.2,
-    "humidity": 53.0,
-    "pressure": 1015.63
+    "wind_speed": 1.95,
+    "wind_dir": 251.0,
+    "temp": 16.6,
+    "humidity": 43.0,
+    "pressure": 1015.26
   },
   {
     "name": "Talcahuano - Faro Isla Quiriquina (SERVIMET)",
     "lat": -36.62582,
     "lon": -73.0607,
-    "wind_speed": 3.1,
-    "wind_dir": 202.0,
-    "temp": 10.8,
-    "humidity": 79.0,
-    "pressure": 1015.78
+    "wind_speed": 5.4,
+    "wind_dir": 210.0,
+    "temp": 12.6,
+    "humidity": 71.0,
+    "pressure": 1015.26
   },
   {
     "name": "Talcahuano - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -36.70806,
     "lon": -73.1128,
-    "wind_speed": 2.31,
-    "wind_dir": 142.0,
-    "temp": 11.6,
-    "humidity": 79.0,
-    "pressure": 1018.22
+    "wind_speed": 2.98,
+    "wind_dir": 185.0,
+    "temp": 14.1,
+    "humidity": 72.0,
+    "pressure": 1017.22
   },
   {
     "name": "Lirqu\u00e9n - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -36.7117,
     "lon": -72.9777,
-    "wind_speed": 3.14,
+    "wind_speed": 2.52,
     "wind_dir": 346.0,
-    "temp": 11.5,
-    "humidity": 73.0,
-    "pressure": 1017.78
+    "temp": 14.7,
+    "humidity": 67.0,
+    "pressure": 1016.84
   },
   {
     "name": "Hualp\u00e9n - Faro Punta Hualp\u00e9n (SERVIMET)",
@@ -857,147 +857,147 @@
     "wind_dir": 7.0,
     "temp": 13.9,
     "humidity": 100.0,
-    "pressure": 1005.65
+    "pressure": 1004.47
   },
   {
     "name": "San Pedro de la Paz",
     "lat": -36.8424,
     "lon": -73.0913,
-    "wind_speed": 0.9,
-    "wind_dir": 145.0,
-    "temp": 12.7,
-    "humidity": 77.0,
-    "pressure": 1016.93
+    "wind_speed": 0.5,
+    "wind_dir": 84.0,
+    "temp": 15.7,
+    "humidity": 67.0,
+    "pressure": 1016.02
   },
   {
     "name": "Florida - San Antonio de Cuda",
     "lat": -36.8687,
     "lon": -72.6403,
-    "wind_speed": 1.8,
-    "wind_dir": 91.0,
-    "temp": 11.2,
-    "humidity": 71.0,
-    "pressure": 980.95
+    "wind_speed": 0.0,
+    "wind_dir": 105.0,
+    "temp": 14.8,
+    "humidity": 60.0,
+    "pressure": 980.65
   },
   {
     "name": "Coronel - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -37.02722,
     "lon": -73.1486,
-    "wind_speed": 0.36,
-    "wind_dir": 224.0,
-    "temp": 10.1,
+    "wind_speed": 0.67,
+    "wind_dir": 252.0,
+    "temp": 10.9,
     "humidity": 89.0,
-    "pressure": 1017.33
+    "pressure": 1016.55
   },
   {
     "name": "Lota - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -37.0977,
     "lon": -73.1599,
-    "wind_speed": 1.54,
+    "wind_speed": 1.65,
     "wind_dir": 5.0,
-    "temp": 9.6,
-    "humidity": 97.0,
-    "pressure": 1018.39
+    "temp": 11.6,
+    "humidity": 92.0,
+    "pressure": 1017.51
   },
   {
     "name": "Los \u00c1ngeles - Centro",
     "lat": -37.4658,
     "lon": -72.3589,
-    "wind_speed": 1.1,
-    "wind_dir": 128.0,
-    "temp": 9.4,
-    "humidity": 85.0,
-    "pressure": 1006.44
+    "wind_speed": 1.0,
+    "wind_dir": 173.0,
+    "temp": 12.2,
+    "humidity": 77.0,
+    "pressure": 1005.42
   },
   {
     "name": "San Antonio de Duqueco",
     "lat": -37.5668,
     "lon": -72.0218,
-    "wind_speed": 1.6,
-    "wind_dir": 231.0,
-    "temp": 7.4,
-    "humidity": 95.0,
-    "pressure": 990.3
+    "wind_speed": 2.4,
+    "wind_dir": 188.0,
+    "temp": 12.4,
+    "humidity": 73.0,
+    "pressure": 989.4
   },
   {
     "name": "Lebu - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -37.60467,
     "lon": -73.6537,
-    "wind_speed": 3.91,
-    "wind_dir": 200.0,
-    "temp": 13.9,
-    "humidity": 74.0,
-    "pressure": 1018.74
+    "wind_speed": 4.27,
+    "wind_dir": 234.0,
+    "temp": 14.8,
+    "humidity": 71.0,
+    "pressure": 1017.9
   },
   {
     "name": "Lonquimay - Loma Atravesada",
     "lat": -38.448189,
     "lon": -71.270222,
-    "wind_speed": 1.0,
-    "wind_dir": 290.0,
-    "temp": 2.4,
-    "humidity": 68.0,
-    "pressure": 912.9
+    "wind_speed": 0.8,
+    "wind_dir": 279.0,
+    "temp": 7.0,
+    "humidity": 57.0,
+    "pressure": 910.8
   },
   {
     "name": "Curacaut\u00edn - Ca\u00f1\u00f3n del Blanco",
     "lat": -38.5435,
     "lon": -71.6829,
-    "wind_speed": 0.0,
-    "wind_dir": 46.0,
-    "temp": 6.8,
-    "humidity": 74.0,
-    "pressure": 925.09
+    "wind_speed": 0.6,
+    "wind_dir": 31.0,
+    "temp": 10.5,
+    "humidity": 45.0,
+    "pressure": 924.69
   },
   {
     "name": "Saavedra - Capitan\u00eda de Puerto Carahue (SERVIMET)",
     "lat": -38.78833,
     "lon": -73.3972,
-    "wind_speed": 1.13,
-    "wind_dir": 53.0,
-    "temp": 9.5,
-    "humidity": 94.0,
-    "pressure": 1018.89
+    "wind_speed": 3.5,
+    "wind_dir": 155.0,
+    "temp": 10.8,
+    "humidity": 87.0,
+    "pressure": 1018.21
   },
   {
     "name": "Pitrufqu\u00e9n - Colegio Madres Dominicas",
     "lat": -38.9856,
     "lon": -72.6374,
-    "wind_speed": 1.8,
-    "wind_dir": 327.0,
-    "temp": 8.1,
-    "humidity": 89.0,
-    "pressure": 1010.01
+    "wind_speed": 0.9,
+    "wind_dir": 315.0,
+    "temp": 12.1,
+    "humidity": 76.0,
+    "pressure": 1009.02
   },
   {
     "name": "Loncoche",
     "lat": -39.3668,
     "lon": -72.6246,
-    "wind_speed": 0.7,
-    "wind_dir": 90.0,
-    "temp": 8.7,
-    "humidity": 88.0,
-    "pressure": 1009.58
+    "wind_speed": 2.7,
+    "wind_dir": 68.0,
+    "temp": 10.4,
+    "humidity": 80.0,
+    "pressure": 1008.6
   },
   {
     "name": "Valdivia - Las Minas",
     "lat": -39.72212,
     "lon": -73.3619,
-    "wind_speed": 7.8,
-    "wind_dir": 135.0,
-    "temp": 5.4,
-    "humidity": 94.0,
-    "pressure": 977.03
+    "wind_speed": 5.3,
+    "wind_dir": 113.0,
+    "temp": 7.3,
+    "humidity": 89.0,
+    "pressure": 976.6
   },
   {
     "name": "Valdivia",
     "lat": -39.8287,
     "lon": -73.2514,
-    "wind_speed": 1.1,
-    "wind_dir": 88.0,
-    "temp": 8.8,
+    "wind_speed": 1.3,
+    "wind_dir": 76.0,
+    "temp": 9.7,
     "humidity": 81.0,
-    "pressure": 1019.6
+    "pressure": 1018.4
   },
   {
     "name": "Corral - Capitan\u00eda de Puerto (SERVIMET)",
@@ -1013,31 +1013,31 @@
     "name": "Loncotoro, Llanquihue",
     "lat": -41.2965,
     "lon": -73.207,
-    "wind_speed": 0.0,
-    "wind_dir": 0.0,
-    "temp": 8.7,
-    "humidity": 88.0,
-    "pressure": 1002.82
+    "wind_speed": 3.0,
+    "wind_dir": 135.0,
+    "temp": 9.4,
+    "humidity": 83.0,
+    "pressure": 1002.21
   },
   {
     "name": "Puerto Varas - Reserva Santa Clara",
     "lat": -41.29913,
     "lon": -73.0234,
-    "wind_speed": 0.9,
-    "wind_dir": 180.0,
-    "temp": 8.5,
+    "wind_speed": 1.1,
+    "wind_dir": 246.0,
+    "temp": 8.7,
     "humidity": 85.0,
-    "pressure": 1010.84
+    "pressure": 1010.16
   },
   {
     "name": "Puerto Montt - Centro Meteorol\u00f3gico (SERVIMET)",
     "lat": -41.48451,
     "lon": -72.9613,
-    "wind_speed": 0.77,
-    "wind_dir": 88.0,
-    "temp": 8.7,
+    "wind_speed": 1.18,
+    "wind_dir": 121.0,
+    "temp": 8.8,
     "humidity": 88.0,
-    "pressure": 1022.64
+    "pressure": 1022.06
   },
   {
     "name": "Seno de Reloncav\u00ed",
@@ -1053,41 +1053,41 @@
     "name": "Maull\u00edn - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -41.61577,
     "lon": -73.5954,
-    "wind_speed": 2.98,
-    "wind_dir": 174.0,
-    "temp": 8.1,
-    "humidity": 91.0,
-    "pressure": 1023.13
+    "wind_speed": 1.7,
+    "wind_dir": 91.0,
+    "temp": 9.8,
+    "humidity": 83.0,
+    "pressure": 1022.46
   },
   {
     "name": "Chacao - Alcald\u00eda de Mar (SERVIMET)",
     "lat": -41.82947,
     "lon": -73.5187,
-    "wind_speed": 0.31,
-    "wind_dir": 202.0,
-    "temp": 8.3,
-    "humidity": 89.0,
-    "pressure": 1022.13
+    "wind_speed": 0.87,
+    "wind_dir": 148.0,
+    "temp": 9.3,
+    "humidity": 83.0,
+    "pressure": 1021.52
   },
   {
     "name": "Ancud - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -41.86631,
     "lon": -73.8309,
-    "wind_speed": 2.47,
-    "wind_dir": 139.0,
-    "temp": 8.0,
-    "humidity": 92.0,
-    "pressure": 1023.38
+    "wind_speed": 2.11,
+    "wind_dir": 217.0,
+    "temp": 8.8,
+    "humidity": 90.0,
+    "pressure": 1022.57
   },
   {
     "name": "Isla Tab\u00f3n - Alcald\u00eda de Mar (SERVIMET)",
     "lat": -41.91097,
     "lon": -73.1383,
     "wind_speed": 3.9,
-    "wind_dir": 206.0,
+    "wind_dir": 201.0,
     "temp": 9.1,
-    "humidity": 85.0,
-    "pressure": 1020.4
+    "humidity": 85.8,
+    "pressure": 1020.2
   },
   {
     "name": "Chepu",
@@ -1113,190 +1113,190 @@
     "name": "Dalcahue - Centro",
     "lat": -42.3795,
     "lon": -73.6511,
-    "wind_speed": 1.4,
-    "wind_dir": 231.0,
-    "temp": 8.6,
-    "humidity": 82.0,
-    "pressure": 1022.1
+    "wind_speed": 0.8,
+    "wind_dir": 186.0,
+    "temp": 8.9,
+    "humidity": 83.0,
+    "pressure": 1021.4
   },
   {
     "name": "Castro - Gamboa",
     "lat": -42.4819,
     "lon": -73.7852,
-    "wind_speed": 0.9,
-    "wind_dir": 252.0,
-    "temp": 7.2,
-    "humidity": 89.0,
-    "pressure": 1017.27
+    "wind_speed": 2.1,
+    "wind_dir": 195.0,
+    "temp": 9.3,
+    "humidity": 81.0,
+    "pressure": 1016.97
   },
   {
     "name": "Chonchi - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -42.61873,
     "lon": -73.7705,
-    "wind_speed": 1.65,
+    "wind_speed": 3.04,
     "wind_dir": 360.0,
-    "temp": 8.1,
-    "humidity": 90.0,
-    "pressure": 1023.94
+    "temp": 8.3,
+    "humidity": 91.0,
+    "pressure": 1023.33
   },
   {
     "name": "Cucao",
     "lat": -42.6353,
     "lon": -74.1061,
-    "wind_speed": 2.0,
-    "wind_dir": 135.0,
-    "temp": 8.5,
-    "humidity": 88.0,
-    "pressure": 1020.24
+    "wind_speed": 0.9,
+    "wind_dir": 225.0,
+    "temp": 9.0,
+    "humidity": 87.0,
+    "pressure": 1019.9
   },
   {
     "name": "Chait\u00e9n - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -42.91462,
     "lon": -72.7118,
-    "wind_speed": 0.36,
-    "wind_dir": 199.0,
-    "temp": 6.8,
+    "wind_speed": 2.16,
+    "wind_dir": 256.0,
+    "temp": 8.8,
     "humidity": 100.0,
-    "pressure": 1022.99
+    "pressure": 1022.66
   },
   {
     "name": "Quell\u00f3n - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -43.12065,
     "lon": -73.6217,
-    "wind_speed": 1.65,
-    "wind_dir": 262.0,
-    "temp": 10.3,
-    "humidity": 84.0,
-    "pressure": 1020.87
+    "wind_speed": 1.29,
+    "wind_dir": 261.0,
+    "temp": 10.4,
+    "humidity": 85.0,
+    "pressure": 1020.23
   },
   {
     "name": "Melinka - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -43.89658,
     "lon": -73.7489,
-    "wind_speed": 0.36,
-    "wind_dir": 148.0,
+    "wind_speed": 1.59,
+    "wind_dir": 119.0,
     "temp": 8.9,
-    "humidity": 79.0,
-    "pressure": 1021.16
+    "humidity": 83.0,
+    "pressure": 1020.45
   },
   {
     "name": "Puerto Aguirre - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -45.16467,
     "lon": -73.5217,
-    "wind_speed": 1.39,
-    "wind_dir": 281.0,
-    "temp": 9.1,
-    "humidity": 84.0,
-    "pressure": 1022.6
+    "wind_speed": 0.51,
+    "wind_dir": 168.0,
+    "temp": 11.1,
+    "humidity": 77.0,
+    "pressure": 1022.1
   },
   {
     "name": "Puerto Chacabuco - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -45.46504,
     "lon": -72.8215,
-    "wind_speed": 2.83,
-    "wind_dir": 222.0,
-    "temp": 8.4,
-    "humidity": 77.0,
-    "pressure": 1020.12
+    "wind_speed": 2.37,
+    "wind_dir": 258.0,
+    "temp": 9.0,
+    "humidity": 75.0,
+    "pressure": 1020.23
   },
   {
     "name": "Coyhaique Alto - Sector Las \u00c1guilas",
     "lat": -45.5489,
     "lon": -71.9012,
-    "wind_speed": 9.4,
-    "wind_dir": 247.0,
-    "temp": 4.7,
-    "humidity": 81.0,
-    "pressure": 948.5
+    "wind_speed": 5.9,
+    "wind_dir": 278.0,
+    "temp": 6.0,
+    "humidity": 76.0,
+    "pressure": 947.9
   },
   {
     "name": "Coyhaique - Los Flamencos",
     "lat": -45.5837,
     "lon": -72.0578,
-    "wind_speed": 0.6,
-    "wind_dir": 244.0,
-    "temp": 9.0,
-    "humidity": 68.0,
-    "pressure": 980.84
+    "wind_speed": 0.0,
+    "wind_dir": 215.0,
+    "temp": 10.1,
+    "humidity": 66.0,
+    "pressure": 980.34
   },
   {
     "name": "Puerto Ed\u00e9n - Capitan\u00eda de Puerto (SERVIMET)",
     "lat": -49.12917,
     "lon": -74.4292,
-    "wind_speed": 0.0,
-    "wind_dir": 322.0,
-    "temp": 5.9,
-    "humidity": 95.0,
-    "pressure": 1020.32
+    "wind_speed": 0.21,
+    "wind_dir": 321.0,
+    "temp": 8.1,
+    "humidity": 88.0,
+    "pressure": 1019.82
   },
   {
     "name": "Punta Arenas - ASMAR Magallanes (SERVIMET)",
     "lat": -53.12367,
     "lon": -70.8623,
-    "wind_speed": 7.0,
-    "wind_dir": 226.0,
-    "temp": 8.2,
-    "humidity": 57.2,
-    "pressure": 1011.7
+    "wind_speed": 4.4,
+    "wind_dir": 220.0,
+    "temp": 8.3,
+    "humidity": 57.4,
+    "pressure": 1011.3
   },
   {
     "name": "Punta Arenas - Alto Bulnes",
     "lat": -53.1256,
     "lon": -70.885,
-    "wind_speed": 0.5,
-    "wind_dir": 293.0,
-    "temp": 8.0,
+    "wind_speed": 1.0,
+    "wind_dir": 0.0,
+    "temp": 8.2,
     "humidity": 70.0,
-    "pressure": 1010.47
+    "pressure": 1009.79
   },
   {
     "name": "Punta Arenas - Punta Carrera",
     "lat": -53.5583,
     "lon": -70.9496,
-    "wind_speed": 0.2,
+    "wind_speed": 0.9,
     "wind_dir": 315.0,
-    "temp": 7.3,
-    "humidity": 73.0,
-    "pressure": 1008.06
+    "temp": 7.2,
+    "humidity": 70.0,
+    "pressure": 1007.72
   },
   {
     "name": "Timbales - Alcald\u00eda de Mar (SERVIMET)",
     "lat": -54.86759,
     "lon": -70.2919,
-    "wind_speed": 7.92,
-    "wind_dir": 280.0,
-    "temp": 6.4,
-    "humidity": 84.0,
-    "pressure": 1008.22
+    "wind_speed": 5.86,
+    "wind_dir": 263.0,
+    "temp": 5.9,
+    "humidity": 86.0,
+    "pressure": 1007.27
   },
   {
     "name": "Puerto Navarino - Alcald\u00eda de Mar (SERVIMET)",
     "lat": -54.92564,
     "lon": -68.3236,
-    "wind_speed": 1.39,
-    "wind_dir": 175.0,
-    "temp": 8.3,
-    "humidity": 77.0,
-    "pressure": 1005.78
+    "wind_speed": 6.48,
+    "wind_dir": 250.0,
+    "temp": 8.4,
+    "humidity": 72.0,
+    "pressure": 1004.42
   },
   {
     "name": "Puerto Williams - Yelcho",
     "lat": -54.9342,
     "lon": -67.6006,
-    "wind_speed": 4.6,
-    "wind_dir": 315.0,
-    "temp": 8.4,
-    "humidity": 78.0,
-    "pressure": 1004.63
+    "wind_speed": 4.2,
+    "wind_dir": 293.0,
+    "temp": 8.8,
+    "humidity": 75.0,
+    "pressure": 1003.28
   },
   {
     "name": "Puerto Corriente - Alcald\u00eda de Mar (SERVIMET)",
     "lat": -54.98857,
     "lon": -68.3444,
-    "wind_speed": 2.68,
-    "wind_dir": 75.0,
-    "temp": 7.4,
-    "humidity": 82.0,
-    "pressure": 1002.31
+    "wind_speed": 4.42,
+    "wind_dir": 65.0,
+    "temp": 8.0,
+    "humidity": 77.0,
+    "pressure": 1001.03
   }
 ]
